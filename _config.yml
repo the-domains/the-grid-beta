@@ -1,8 +1,8 @@
-layout_spectrum: 0.1015037
+layout_spectrum: 0.3754028
+typography_spectrum: 0.5171858
 color:
-  saturation: 0.2056928
-  lightness: 0.3807734
+  saturation: 0.4656284
   brandStrength: 0.6918008
-  rhythmicContrast: 0.8806587
-typography_spectrum: 0.8328524
+  lightness: 0.754565
+  rhythmicContrast: 0.6460795
 name: The Grid Beta
