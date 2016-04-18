@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Grid Beta]]></title>
         <description><![CDATA[The Grid Beta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-grid-beta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 20:24:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 20:25:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grid-beta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Convict Lake]]></title>
+            <description><![CDATA[<article><h1>Convict Lake</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4529e558-96c7-42bb-8a42-dba43212c237.png"></article>]]></description>
+            <link>https://thegrid.ai/the-grid-beta/convict-lake/index.html</link>
+            <guid isPermaLink="false">4038ffc1-08d7-40ea-8ea1-ed4826c60764</guid>
+            <pubDate>Mon, 18 Apr 2016 20:25:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Yosemite Awaits]]></title>
             <description><![CDATA[<article><h1>Yosemite Awaits</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e11dd526-0467-453c-9ed0-95a4f82c2aac.png"></article>]]></description>
-            <link>undefinedyosemite-awaits/index.html</link>
+            <link>https://thegrid.ai/the-grid-beta/yosemite-awaits/index.html</link>
             <guid isPermaLink="false">f225c907-5901-48f1-b69b-f0878b5d1783</guid>
             <pubDate>Mon, 18 Apr 2016 20:24:43 GMT</pubDate>
         </item>
