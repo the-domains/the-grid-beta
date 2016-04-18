@@ -1,8 +1,20 @@
-layout_spectrum: 0.3754028
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3259935
 color:
-  saturation: 1
-  lightness: 0.9070892
+  saturation: 0.83942
   brandStrength: 0.6918008
-  rhythmicContrast: 0.9446831
+  lightness: 0.283029
+  rhythmicContrast: 0.2679914
+layout_spectrum: 0.3754028
 name: The Grid Beta
