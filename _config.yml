@@ -10,11 +10,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.3259935
 color:
   saturation: 0.7019334
+  lightness: 1
   brandStrength: 0.6918008
-  lightness: 0
-  rhythmicContrast: 0.3216971
-typography_spectrum: 0.3259935
+  rhythmicContrast: 1
 layout_spectrum: 1
 name: The Grid Beta
