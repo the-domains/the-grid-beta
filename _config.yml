@@ -4,17 +4,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3259935
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.83942
+  saturation: 0.7019334
   brandStrength: 0.6918008
-  lightness: 0.283029
-  rhythmicContrast: 0.2679914
-layout_spectrum: 0.3754028
+  lightness: 0
+  rhythmicContrast: 0.3216971
+typography_spectrum: 0.3259935
+layout_spectrum: 1
 name: The Grid Beta
