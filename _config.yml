@@ -1,3 +1,7 @@
+name: The Grid Beta
+favicon: null
+layout_spectrum: 0.99901
+typography_spectrum: 0.5497
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3259935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7019334
-  brandStrength: 0.754565
-  lightness: 0.5418904
   brandColors:
-    - '#F8F6F7'
-    - '#212B37'
-    - '#4B607F'
-    - '#B65E52'
-    - '#67B6DF'
-  rhythmicContrast: 0.6675618
-layout_spectrum: 1
-name: The Grid Beta
+    - '#ffffff'
+    - '#161a25'
+    - '#6d97df'
+    - '#5e5747'
+    - '#a08957'
+  brandStrength: 0.5625
+  lightness: 0.9375
+  saturation: 0.1875
+  rhythmicContrast: 1
+purpose: []
