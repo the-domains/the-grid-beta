@@ -1,9 +1,7 @@
-favicon: null
 name: The Grid Beta
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.27219
+typography_spectrum: 0.5497
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5279269
-  brandStrength: 0.5625
-  rhythmicContrast: 0.8619764
   brandColors:
     - '#ffffff'
     - '#161a25'
     - '#6d97df'
     - '#5e5747'
     - '#a08957'
-  lightness: 0.5279269
-typography_spectrum: 0.5497
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.6482278
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.5625
+  rhythmicContrast: 0.8619764
+purpose: []
